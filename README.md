@@ -1,7 +1,7 @@
-# Real-time-face-detection-
+# Real-time-face-detection
 Real time face detection
 
-A Convolutional Neural Network based Tensorflow implementation on facial expression recognition (FER2013 dataset) and achieving 72% accuracy 
+A Convolutional Neural Network based Tensorflow implementation on facial expression recognition (FER2013 dataset) and achieving 72% accuracy. 
 
 
 In this Model 'Convolutional Neural Network' is used for Real time face emotion recognition through webcam so based on that, a streamlit app is created which is deployed on Google cloud platform.
@@ -32,12 +32,12 @@ The model is trained on the dataset 'FER-13 dataset', which had five emotion cat
 * Prepare data
     * Dataset : https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 * Train 
-    * CNN Model : 
+    * CNN Model : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/src/emotion_recognition.py.ipynb 
 * Test it
-    * Test file :
+    * Test file : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/src/test.py.ipynb
 * Deploy Your app
 * Access it via streamlit
-     * File :  
+     * File : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/main.py
 
 
 
