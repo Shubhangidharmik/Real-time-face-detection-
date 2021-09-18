@@ -48,8 +48,10 @@ The model is trained on the dataset 'FER-13 dataset', which had five emotion cat
 
 ### Streamlit app link
   * [Network URL: http://192.168.43.165:8501]
+![Screenshot (1078)](https://user-images.githubusercontent.com/85070726/133897025-8de3e1e3-c8c9-4064-9411-7f84a4b0048a.png)
 
-![img.png](img.png)
+
 
 ### Demo on streamlit:
-![img_1.png](img_1.png)
+![Screenshot (1076)](https://user-images.githubusercontent.com/85070726/133896895-09e02159-9405-468b-87da-ea3b4bcd0593.png)
+
