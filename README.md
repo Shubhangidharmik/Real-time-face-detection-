@@ -52,6 +52,7 @@ The model is trained on the dataset 'FER-13 dataset', which had five emotion cat
 
 
 
-### Demo on streamlit:
+
+## Demo on streamlit:
 ![Screenshot (1076)](https://user-images.githubusercontent.com/85070726/133896895-09e02159-9405-468b-87da-ea3b4bcd0593.png)
 
