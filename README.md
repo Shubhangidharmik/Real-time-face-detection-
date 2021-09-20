@@ -37,7 +37,7 @@ The model is trained on the dataset 'FER-13 dataset', which had five emotion cat
     * Test file : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/src/test.py.ipynb
 * Deploy Your app
 * Access it via streamlit
-     * File : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/main.py
+     * File : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/app.py
 
 
 
