@@ -34,10 +34,10 @@ The model is trained on the dataset 'FER-13 dataset', which had five emotion cat
 * Train 
     * CNN Model : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/src/emotion_recognition.py.ipynb 
 * Test it
-    * Test file : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/src/test.py.ipynb
+    * Real time face emotion recognition through webcam : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/src/test.py.ipynb
 * Deploy Your app
 * Access it via streamlit
-     * File : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/app.py
+     * Run on streamlit app : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/app.py
 
 
 
