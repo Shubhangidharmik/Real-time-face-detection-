@@ -5,7 +5,10 @@ A Convolutional Neural Network based Tensorflow implementation on facial express
 
 
 In this Model 'Convolutional Neural Network' is used for Real time face emotion recognition through webcam so based on that, a streamlit app is created which is deployed on Google cloud platform.
-The model is trained on the dataset 'FER-13 dataset', which had five emotion categories which are 'Happy', 'Sad', 'Neutral','Angry' and 'Disgust' in which all the images were 48x48 pixel grayscale images of face. This model gave an accuracy of approximately 72% at 30th epoch and it will be given much better accuracy, if we increase the number of epoch.
+The model is trained on the dataset 'FER-13 dataset', which had five emotion categories which are 'Happy', 'Sad', 'Neutral','Angry' and 'Disgust' in which all the images were 48x48 pixel grayscale images of face. This model gave an accuracy of approximately 55% at 6th epoch and it will be given much better accuracy, if we increase the number of epoch.
+
+![Screenshot (1142)](https://user-images.githubusercontent.com/85070726/134208281-299fa3e1-30da-4b0b-84df-7cf5a3f19036.png)
+
 
 ### Dependencies:
 - python 3.8
