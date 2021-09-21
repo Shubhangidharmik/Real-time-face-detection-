@@ -35,7 +35,7 @@ The model is trained on the dataset 'FER-13 dataset', which had five emotion cat
 * Prepare data
     * Dataset : https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 * Train 
-    * CNN Model : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/src/emotion_recognition.py.ipynb 
+    * CNN Model : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/src/REALTIME%20FACE%20EMOTION%20RECOGNITION.ipynb
 * Test it
     * Real time face emotion recognition through webcam : https://github.com/Shubhangidharmik/Realtime-Face-Emotion-Recognition/blob/main/src/test.py.ipynb
 * Deploy Your app
